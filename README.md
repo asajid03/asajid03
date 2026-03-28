@@ -1,116 +1,211 @@
-<!-- GitHub Profile README - Awais Sajid | Security Engineer -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Awais+Sajid;Security+Engineer;Threat+Hunter;SOC+Analyst" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/2%2B%20Years-Experience-00F5FF?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/500%2B%20Alerts%2FMonth-Incident%20Response-FF4D4D?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/95%25-Client%20Satisfaction-6A0DAD?style=for-the-badge&logo=smile&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISO%2027001%2FPCI--DSS-Compliance-FFB800?style=for-the-badge&logo=security&logoColor=white" />
-</div>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00d4ff&height=220&section=header&text=Awais%20Sajid&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Security%20Engineer%20%7C%20Threat%20Hunter%20%7C%20Detection%20Architect&descAlignY=58&descSize=18&descColor=00ff88&animation=fadeIn" width="100%"/>
+
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00FF88&center=true&vCenter=true&multiline=false&width=700&height=48&lines=%5B+SYSTEM+ONLINE+%5D+Securing+the+perimeter...;Threat+Hunting+%7C+Detection+Engineering+%7C+SIEM;Palo+Alto+%7C+Trend+Micro+%7C+Wazuh+%7C+MITRE+ATT%26CK;Blue+Team+%E2%9A%94%EF%B8%8F+Purple+Team+%7C+Islamabad%2C+PK" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-   <a href="https://linkedin.com/in/awais-sajid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- BADGES ROW -->
+<a href="mailto:awaissajid@example.com"><img src="https://img.shields.io/badge/Security%20Engineer-%2300ff88?style=for-the-badge&logo=shield&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/2%2B%20Years%20Experience-%2300d4ff?style=for-the-badge&logo=clock&logoColor=black"/>
+<img src="https://img.shields.io/badge/Islamabad%2C%20PK-%23ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20Relocation-%23a78bfa?style=for-the-badge&logo=airplane&logoColor=white"/>
+
 </div>
 
 ---
 
-## 🛡️ About Me
+<!-- ABOUT SECTION -->
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-I'm a **Proactive Security Engineer** with 2+ years of hands-on experience in enterprise security operations, incident response, threat hunting, and pre-sales engineering. I specialize in **SIEM, XDR, NGFW, and threat intelligence**, helping organizations detect and respond to advanced threats while maintaining compliance with ISO 27001 and PCI-DSS.
+## `$ whoami`
 
-- 🔐 Certified by **Google**, **IBM**, **ISC2**, and **Trend Micro**
-- 🎓 **BSc in Cyber Security** – FAST-NUCES, Islamabad
-- 🏆 Runner-Up at **Nescon Cyber Quiz** | Former Head of Cyber Security at **GDSC**
+```yaml
+name        : Awais Sajid
+role        : Security Engineer @ Secure Networks
+location    : Islamabad, Pakistan 🇵🇰
+experience  : 2+ years in Cybersecurity
+focus_areas :
+  - Threat Detection & Response
+  - Security Operations (SOC)
+  - Detection Engineering
+  - SIEM Architecture (Wazuh)
+  - Network Security (Palo Alto NGFW)
+  - Endpoint Protection (Trend Micro)
+available   : UAE · Saudi Arabia · Qatar · Malaysia · Remote
+education   : B.S. Cyber Security — NUCES (2019–2023)
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+## `$ threat_level`
+
+<img src="https://github-readme-stats.vercel.app/api?username=awaissajid&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 SOC Metrics Dashboard
+## `$ skills --list-all`
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/🚨_Alerts_Contained-100%25-00FFAA?style=flat-square" /><br/><strong>Threat Containment</strong></td>
-      <td align="center"><img src="https://img.shields.io/badge/⚡_IR_Time-80%25_Reduction-FFA500?style=flat-square" /><br/><strong>Automated Blocking</strong></td>
-      <td align="center"><img src="https://img.shields.io/badge/🔍_Alerts%2FMonth-500%2B-FF4D4D?style=flat-square" /><br/><strong>Investigated & Triaged</strong></td>
-      <td align="center"><img src="https://img.shields.io/badge/🌐_Clients_Supported-20%2B-36A2EB?style=flat-square" /><br/><strong>Enterprise Clients</strong></td>
-    </tr>
-  </table>
+
+### 🛡️ Security Stack
+<img src="https://skillicons.dev/icons?i=linux,bash,python,powershell&theme=dark" />
+
+<br/><br/>
+
+| Category | Tools & Technologies |
+|:---:|:---|
+| 🔴 **SIEM / XDR** | ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=elastic&logoColor=white) ![Trend Micro](https://img.shields.io/badge/Trend%20Micro%20XDR-D71E28?style=flat-square&logo=trendmicro&logoColor=white) ![Vision One](https://img.shields.io/badge/Vision%20One-FF0000?style=flat-square&logo=trendmicro&logoColor=white) |
+| 🟠 **Network Security** | ![Palo Alto](https://img.shields.io/badge/Palo%20Alto%20NGFW-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white) ![Infoblox](https://img.shields.io/badge/Infoblox%20BloxOne-0047AB?style=flat-square&logo=cloudflare&logoColor=white) |
+| 🟡 **Frameworks** | ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=flat-square&logo=target&logoColor=white) ![D3FEND](https://img.shields.io/badge/MITRE%20D3FEND-000080?style=flat-square) ![SIGMA](https://img.shields.io/badge/Sigma%20Rules-FF6B35?style=flat-square) ![YARA](https://img.shields.io/badge/YARA-00BFFF?style=flat-square) |
+| 🟢 **Compliance** | ![ISO 27001](https://img.shields.io/badge/ISO%2027001-00529B?style=flat-square) ![PCI-DSS](https://img.shields.io/badge/PCI--DSS-003087?style=flat-square) ![SSAE-18](https://img.shields.io/badge/SSAE--18-1A5276?style=flat-square) |
+| 🔵 **Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| 🟣 **Certifications** | ![Google](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white) ![IBM](https://img.shields.io/badge/IBM%20Cyber%20Analyst-052FAD?style=flat-square&logo=ibm&logoColor=white) ![ISC2](https://img.shields.io/badge/ISC2%20CC-006B3F?style=flat-square) |
+
 </div>
 
 ---
 
-## 💼 Experience Highlights
-
-| **🔒 Secure Networks — Security Engineer** | **🏢 i2c Inc. — Information Security Engineer** |
-|:------------------------------------------|:-----------------------------------------------|
-| *Sep 2024 – Present \| Islamabad*         | *Feb 2024 – Aug 2024 \| Lahore*                |
-| • Designed HLD/LLD & POC plans for enterprise clients | • Ensured ISO 27001, ISO 27701, PCI-DSS compliance |
-| • Managed DNS infra for 10+ clients (Infoblox NIOS/BloxOne) | • Trained 200+ staff, fostering security culture |
-| • Deployed Palo Alto NGFW & Trend Micro XDR, reducing alert latency by 40% | • Conducted gap/risk assessments, maintained ISMS |
-| • Automated malicious domain blocking → **80% faster IR** | • Collaborated with infra & dev teams to remediate gaps |
-| • Investigated 500+ alerts/month via Trend Micro & Infoblox | |
-| • Implemented Zero Trust Secure Access (ZTSA) & Wazuh SIEM | |
-
----
-
-## 🧰 Core Competencies
+## `$ stats --dashboard`
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SIEM%2FXDR-Trend%20Micro%20%7C%20Wazuh-00A1E0?style=for-the-badge&logo=trendmicro&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGFW-Palo%20Alto-FF4D4D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/DNS%20Security-Infoblox-0052CC?style=for-the-badge&logo=infoblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat%20Intel-OSINT%20%7C%20SL%20Crimewall-181717?style=for-the-badge&logo=thehiveproject&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frameworks-MITRE%20ATT%26CK%20%7C%20D3FEND-8A2BE2?style=for-the-badge&logo=mitre&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scripting-Python%20%7C%20PowerShell-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDR%2FDLP-Trend%20Micro%20%7C%20ZTSA-6A0DAD?style=for-the-badge&logo=trendmicro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forensics-Email%20%7C%20Disk%20%7C%20Log-FFB800?style=for-the-badge&logo=autopsy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sandbox-DDAN%20%7C%20Deep%20Discovery-00A98F?style=for-the-badge&logo=virustotal&logoColor=white" />
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=awaissajid&theme=merko&hide_border=true&background=0D1117&ring=00FF88&fire=00D4FF&currStreakLabel=00FF88&sideLabels=00D4FF&dates=6e7681&stroke=00ff8820&border_radius=12" width="100%"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaissajid&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_radius=12" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=awaissajid&bg_color=0d1117&color=00ff88&line=00d4ff&point=ffffff&area=true&area_color=00ff8820&hide_border=true&radius=12" width="100%"/>
+
 </div>
 
 ---
 
-## 🏅 Certifications & Achievements
+## `$ ./projects --show-featured`
 
 <div align="center">
-  <table>
-    <tr>
-      <td>🏅 Infoblox NIOS Expert</td>
-      <td>🏅 Trend Micro Vision One – Email & Collaboration Security Advanced</td>
-    </tr>
-    <tr>
-      <td>🏅 Google Certified Cybersecurity Analyst</td>
-      <td>🏅 IBM Certified Cybersecurity Analyst</td>
-    </tr>
-    <tr>
-      <td>🏅 Cohesity NetBackup Administration</td>
-      <td>🏅 ISC2 Certified in Cybersecurity (CC)</td>
-    </tr>
-  </table>
-</div>
 
-- 🎓 **Nationwide Scholarship** – 8th class academic excellence
-- 🥈 **Runner-Up** – Cyber Quiz Competition, Nescon
-- 🧑‍💻 **Head of Cyber Security** – Google Developer Student Club, FAST-NUCES
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 sigma-wazuh-pipeline
+```
+Type     : Detection Engineering
+Stack    : Sigma · Wazuh · Python · YAML
+Status   : 🟢 Active Development
+```
+> Automated Sigma rule conversion pipeline targeting Wazuh SIEM. Covers ATT&CK tactics T1059 → T1566 with custom field mappings and CI/CD deployment.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%2300ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/awaissajid/sigma-wazuh-pipeline)
+
+</td>
+<td width="50%">
+
+### 🕵️ threat-hunt-auto
+```
+Type     : Threat Intelligence
+Stack    : Python · MITRE ATT&CK · Pandas
+Status   : 🟡 In Progress
+```
+> Automated threat hunt playbooks mapped to MITRE ATT&CK. Ingests IOCs, generates hunt queries, and outputs structured reports.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%2300d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/awaissajid/threat-hunt-auto)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛠️ purple-team-toolkit
+```
+Type     : Offensive + Defensive
+Stack    : Python · Bash · PowerShell
+Status   : 🟠 Building
+```
+> Unified Purple Team toolkit bridging detection gaps. Includes atomic tests, adversary emulation, and corresponding detection coverage maps.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23a78bfa?style=for-the-badge&logo=github&logoColor=black)](https://github.com/awaissajid/purple-team-toolkit)
+
+</td>
+<td width="50%">
+
+### 🏗️ detection-engineering-framework
+```
+Type     : Framework / Reference
+Stack    : Markdown · YAML · Python
+Status   : 🔵 Drafting
+```
+> Structured DE framework covering rule lifecycle management, tuning methodology, false-positive suppression, and coverage dashboards.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23ff6b6b?style=for-the-badge&logo=github&logoColor=black)](https://github.com/awaissajid/detection-engineering-framework)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## `$ cat achievements.log`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true&hide_border=true&bg_color=0a0c10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0a0c10" width="48%" />
+
+| 🏆 Achievement | Details |
+|:---:|:---|
+| 🥈 **Runner-Up** | Cyber Quiz Competition — NESCON National Conference |
+| 🌐 **Head of Cybersecurity** | Google Developer Student Club — NUCES Islamabad |
+| 🎓 **National Scholar** | Nationwide Merit Scholarship — 8th Class |
+| 🔬 **ML-Based IDS** | Academic Research: Intrusion Detection via Machine Learning |
+| ⛓️ **Blockchain Dev** | Blockchain-Based Lottery System (Academic Project) |
+| 🔐 **Lightweight TLS** | Secure Communication Protocol Implementation |
+
 </div>
 
 ---
 
+## `$ netstat -connect`
+
 <div align="center">
-  <i>Let's connect and secure the digital world together.</i><br/>
-  <a href="https://linkedin.com/in/awais-sajid">LinkedIn</a> •
-  <a href="mailto:your.email@example.com">Email</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awaissajid)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awaissajid)
+[![Tryhackme](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/awaissajid)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=awaissajid&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:0d1117&height=120&section=footer&text=Defend.%20Detect.%20Respond.&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<div align="center">
+<sub><code>// Last updated: 2026 · Built with 🛡️ and too much coffee ☕</code></sub>
 </div>
