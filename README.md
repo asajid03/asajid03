@@ -9,7 +9,7 @@
 <br/>
 
 <!-- BADGES ROW -->
-<a href="mailto:awaissajid92260@gmail.com"><img src="https://img.shields.io/badge/Security%20Engineer-%2300ff88?style=for-the-badge&logo=shield&logoColor=black"/></a>
+<a href="mailto:asajid03@example.com"><img src="https://img.shields.io/badge/Security%20Engineer-%2300ff88?style=for-the-badge&logo=shield&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/2%2B%20Years%20Experience-%2300d4ff?style=for-the-badge&logo=clock&logoColor=black"/>
 <img src="https://img.shields.io/badge/Islamabad%2C%20PK-%23ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20to%20Relocation-%23a78bfa?style=for-the-badge&logo=airplane&logoColor=white"/>
@@ -42,7 +42,11 @@ education   : B.S. Cyber Security — NUCES (2019–2023)
 ```
 
 </td>
-<td width="100%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
+
+## `$ threat_level`
+
+<img src="https://github-readme-stats.vercel.app/api?username=asajid03&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" width="100%"/>
 
 </td>
 </tr>
@@ -102,66 +106,37 @@ education   : B.S. Cyber Security — NUCES (2019–2023)
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<!-- ROW 1: PINNED REPO CARDS (auto-pull live data) -->
+<a href="https://github.com/asajid03?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asajid03&repo=IDS-ML&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" width="48%"/>
+</a>
+<a href="https://github.com/asajid03?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asajid03&repo=Secure-Network-Design&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" width="48%"/>
+</a>
 
-### 🔬 sigma-wazuh-pipeline
-```
-Type     : Detection Engineering
-Stack    : Sigma · Wazuh · Python · YAML
-Status   : 🟢 Active Development
-```
-> Automated Sigma rule conversion pipeline targeting Wazuh SIEM. Covers ATT&CK tactics T1059 → T1566 with custom field mappings and CI/CD deployment.
+<br/><br/>
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%2300ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/asajid03/sigma-wazuh-pipeline)
+<a href="https://github.com/asajid03?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asajid03&repo=Blockchain-Lottery&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" width="48%"/>
+</a>
+<a href="https://github.com/asajid03?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asajid03&repo=TLS-Secure-Comm&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" width="48%"/>
+</a>
 
-</td>
-<td width="50%">
+<br/><br/>
 
-### 🕵️ threat-hunt-auto
-```
-Type     : Threat Intelligence
-Stack    : Python · MITRE ATT&CK · Pandas
-Status   : 🟡 In Progress
-```
-> Automated threat hunt playbooks mapped to MITRE ATT&CK. Ingests IOCs, generates hunt queries, and outputs structured reports.
+<!-- REPO SUMMARY BREAKDOWN CARDS (fully auto, no repo names needed) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asajid03&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asajid03&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asajid03&theme=github_dark&utcOffset=5" width="32%"/>
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%2300d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/asajid03/threat-hunt-auto)
+<br/><br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛠️ purple-team-toolkit
-```
-Type     : Offensive + Defensive
-Stack    : Python · Bash · PowerShell
-Status   : 🟠 Building
-```
-> Unified Purple Team toolkit bridging detection gaps. Includes atomic tests, adversary emulation, and corresponding detection coverage maps.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%23a78bfa?style=for-the-badge&logo=github&logoColor=black)](https://github.com/asajid03/purple-team-toolkit)
-
-</td>
-<td width="50%">
-
-### 🏗️ detection-engineering-framework
-```
-Type     : Framework / Reference
-Stack    : Markdown · YAML · Python
-Status   : 🔵 Drafting
-```
-> Structured DE framework covering rule lifecycle management, tuning methodology, false-positive suppression, and coverage dashboards.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%23ff6b6b?style=for-the-badge&logo=github&logoColor=black)](https://github.com/asajid03/detection-engineering-framework)
-
-</td>
-</tr>
-</table>
+[![All Repos](https://img.shields.io/badge/🗂️%20View%20All%20Repositories-%2300ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/asajid03?tab=repositories)
 
 </div>
+
+> 💡 **Tip:** Pin your top 6 repos on GitHub (`github.com/asajid03` → *Customize your pins*) — the cards above will auto-update to reflect them. Replace the `repo=` names in the pin card URLs above with your actual repo names.
 
 ---
 
@@ -186,9 +161,9 @@ Status   : 🔵 Drafting
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awais-sajid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asajid03)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awaissajid92260@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asajid03)
 [![Tryhackme](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/asajid03)
 
 <br/>
