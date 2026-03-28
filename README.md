@@ -1,203 +1,211 @@
-
-readme_content = '''<div align="center">
-
-<!-- Animated Header with Gradient Text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Welcome%20to%20My%20Digital%20Garden&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist%20%7C%20Problem%20Solver&descAlignY=60&descSize=20"/>
-
-<!-- Dynamic Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Building+Digital+Experiences+That+Matter;Transforming+Ideas+Into+Elegant+Code;Crafting+Tomorrow's+Solutions+Today)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<!-- 3D Contribution Calendar -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Galaxy" width="95%"/>
-</div>
+
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00d4ff&height=220&section=header&text=Awais%20Sajid&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Security%20Engineer%20%7C%20Threat%20Hunter%20%7C%20Detection%20Architect&descAlignY=58&descSize=18&descColor=00ff88&animation=fadeIn" width="100%"/>
+
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00FF88&center=true&vCenter=true&multiline=false&width=700&height=48&lines=%5B+SYSTEM+ONLINE+%5D+Securing+the+perimeter...;Threat+Hunting+%7C+Detection+Engineering+%7C+SIEM;Palo+Alto+%7C+Trend+Micro+%7C+Wazuh+%7C+MITRE+ATT%26CK;Blue+Team+%E2%9A%94%EF%B8%8F+Purple+Team+%7C+Islamabad%2C+PK" alt="Typing SVG" />
 
 <br/>
 
-<!-- Dashboard Stats Grid -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_color=30363d&border_radius=20&include_all_commits=true&count_private=true&custom_title=📊%20Development%20Metrics" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_color=30363d&border_radius=20&langs_count=8&custom_title=🎯%20Language%20Constellation&hide=html,css" width="100%"/>
-      </td>
-    </tr>
-  </table>
+<!-- BADGES ROW -->
+<a href="mailto:awaissajid92260@gmail.com"><img src="https://img.shields.io/badge/Security%20Engineer-%2300ff88?style=for-the-badge&logo=shield&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/2%2B%20Years%20Experience-%2300d4ff?style=for-the-badge&logo=clock&logoColor=black"/>
+<img src="https://img.shields.io/badge/Islamabad%2C%20PK-%23ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20Relocation-%23a78bfa?style=for-the-badge&logo=airplane&logoColor=white"/>
+
 </div>
+
+---
+
+<!-- ABOUT SECTION -->
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+## `$ whoami`
+
+```yaml
+name        : Awais Sajid
+role        : Security Engineer @ Secure Networks
+location    : Islamabad, Pakistan 🇵🇰
+experience  : 2+ years in Cybersecurity
+focus_areas :
+  - Threat Detection & Response
+  - Security Operations (SOC)
+  - Detection Engineering
+  - SIEM Architecture (Wazuh)
+  - Network Security (Palo Alto NGFW)
+  - Endpoint Protection (Trend Micro)
+available   : UAE · Saudi Arabia · Qatar · Malaysia · Remote
+education   : B.S. Cyber Security — NUCES (2019–2023)
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+## `$ threat_level`
+
+<img src="https://github-readme-stats.vercel.app/api?username=asajid03&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ skills --list-all`
+
+<div align="center">
+
+### 🛡️ Security Stack
+<img src="https://skillicons.dev/icons?i=linux,bash,python,powershell&theme=dark" />
+
+<br/><br/>
+
+| Category | Tools & Technologies |
+|:---:|:---|
+| 🔴 **SIEM / XDR** | ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=elastic&logoColor=white) ![Trend Micro](https://img.shields.io/badge/Trend%20Micro%20XDR-D71E28?style=flat-square&logo=trendmicro&logoColor=white) ![Vision One](https://img.shields.io/badge/Vision%20One-FF0000?style=flat-square&logo=trendmicro&logoColor=white) |
+| 🟠 **Network Security** | ![Palo Alto](https://img.shields.io/badge/Palo%20Alto%20NGFW-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white) ![Infoblox](https://img.shields.io/badge/Infoblox%20BloxOne-0047AB?style=flat-square&logo=cloudflare&logoColor=white) |
+| 🟡 **Frameworks** | ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=flat-square&logo=target&logoColor=white) ![D3FEND](https://img.shields.io/badge/MITRE%20D3FEND-000080?style=flat-square) ![SIGMA](https://img.shields.io/badge/Sigma%20Rules-FF6B35?style=flat-square) ![YARA](https://img.shields.io/badge/YARA-00BFFF?style=flat-square) |
+| 🟢 **Compliance** | ![ISO 27001](https://img.shields.io/badge/ISO%2027001-00529B?style=flat-square) ![PCI-DSS](https://img.shields.io/badge/PCI--DSS-003087?style=flat-square) ![SSAE-18](https://img.shields.io/badge/SSAE--18-1A5276?style=flat-square) |
+| 🔵 **Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| 🟣 **Certifications** | ![Google](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white) ![IBM](https://img.shields.io/badge/IBM%20Cyber%20Analyst-052FAD?style=flat-square&logo=ibm&logoColor=white) ![ISC2](https://img.shields.io/badge/ISC2%20CC-006B3F?style=flat-square) |
+
+</div>
+
+---
+
+## `$ stats --dashboard`
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=asajid03&theme=merko&hide_border=true&background=0D1117&ring=00FF88&fire=00D4FF&currStreakLabel=00FF88&sideLabels=00D4FF&dates=6e7681&stroke=00ff8820&border_radius=12" width="100%"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asajid03&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_radius=12" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asajid03&bg_color=0d1117&color=00ff88&line=00d4ff&point=ffffff&area=true&area_color=00ff8820&hide_border=true&radius=12" width="100%"/>
+
+</div>
+
+---
+
+## `$ ./projects --show-featured`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 sigma-wazuh-pipeline
+```
+Type     : Detection Engineering
+Stack    : Sigma · Wazuh · Python · YAML
+Status   : 🟢 Active Development
+```
+> Automated Sigma rule conversion pipeline targeting Wazuh SIEM. Covers ATT&CK tactics T1059 → T1566 with custom field mappings and CI/CD deployment.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%2300ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/asajid03/sigma-wazuh-pipeline)
+
+</td>
+<td width="50%">
+
+### 🕵️ threat-hunt-auto
+```
+Type     : Threat Intelligence
+Stack    : Python · MITRE ATT&CK · Pandas
+Status   : 🟡 In Progress
+```
+> Automated threat hunt playbooks mapped to MITRE ATT&CK. Ingests IOCs, generates hunt queries, and outputs structured reports.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%2300d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/asajid03/threat-hunt-auto)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛠️ purple-team-toolkit
+```
+Type     : Offensive + Defensive
+Stack    : Python · Bash · PowerShell
+Status   : 🟠 Building
+```
+> Unified Purple Team toolkit bridging detection gaps. Includes atomic tests, adversary emulation, and corresponding detection coverage maps.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23a78bfa?style=for-the-badge&logo=github&logoColor=black)](https://github.com/asajid03/purple-team-toolkit)
+
+</td>
+<td width="50%">
+
+### 🏗️ detection-engineering-framework
+```
+Type     : Framework / Reference
+Stack    : Markdown · YAML · Python
+Status   : 🔵 Drafting
+```
+> Structured DE framework covering rule lifecycle management, tuning methodology, false-positive suppression, and coverage dashboards.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23ff6b6b?style=for-the-badge&logo=github&logoColor=black)](https://github.com/asajid03/detection-engineering-framework)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `$ cat achievements.log`
+
+<div align="center">
+
+| 🏆 Achievement | Details |
+|:---:|:---|
+| 🥈 **Runner-Up** | Cyber Quiz Competition — NESCON National Conference |
+| 🌐 **Head of Cybersecurity** | Google Developer Student Club — NUCES Islamabad |
+| 🎓 **National Scholar** | Nationwide Merit Scholarship — 8th Class |
+| 🔬 **ML-Based IDS** | Academic Research: Intrusion Detection via Machine Learning |
+| ⛓️ **Blockchain Dev** | Blockchain-Based Lottery System (Academic Project) |
+| 🔐 **Lightweight TLS** | Secure Communication Protocol Implementation |
+
+</div>
+
+---
+
+## `$ netstat -connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awais-sajid)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awaissajid92260@gmail.com)
+[![Tryhackme](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/asajid03)
 
 <br/>
 
-<!-- Streak Stats with Fire Animation -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&background=0d1117&border=30363d&stroke=667eea&ring=f093fb&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=c9d1d9&dates=8b949e&border_radius=20" width="70%"/>
+<img src="https://komarev.com/ghpvc/?username=asajid03&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
 
-<!-- Tech Stack Constellation -->
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff88,100:0d1117&height=120&section=footer&text=Defend.%20Detect.%20Respond.&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>
-    <span style="color: #667eea;">Tech Constellation</span>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>
-  </h2>
-
-  <!-- Floating Tech Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=0d1117" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6&color=0d1117" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=0d1117" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000&color=0d1117" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933&color=0d1117" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=0d1117" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8&color=0d1117" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000&color=0d1117" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=0d1117" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5&color=0d1117" />
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF9900&color=0d1117" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098&color=0d1117" />
-  </p>
+<sub><code>// Last updated: 2026 · Built with 🛡️ and too much coffee ☕</code></sub>
 </div>
-
----
-
-<!-- Featured Projects Carousel -->
-<div align="center">
-  <h2>🚀 Featured Creations</h2>
-  
-  <table>
-    <tr>
-      <td width="33%">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_color=30363d&border_radius=15" width="100%"/>
-        </a>
-      </td>
-      <td width="33%">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_color=30363d&border_radius=15" width="100%"/>
-        </a>
-      </td>
-      <td width="33%">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&theme=tokyonight&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_color=30363d&border_radius=15" width="100%"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- Metrics Dashboard -->
-<div align="center">
-  <h2>📈 Real-time Metrics</h2>
-  
-  <!-- GitHub Metrics -->
-  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai&config.padding=0&config.display=large" width="75%"/>
-</div>
-
-<br/>
-
-<!-- Productivity Graph -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=8" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="45%"/>
-</div>
-
----
-
-<!-- Trophy Case -->
-<div align="center">
-  <h2>🏆 Achievement Gallery</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="90%"/>
-</div>
-
----
-
-<!-- Dynamic Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" width="60%"/>
-</div>
-
----
-
-<!-- Connect Section -->
-<div align="center">
-  <h2>🌐 Let's Connect</h2>
-  
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0d1117" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=0d1117" />
-  </a>
-  <a href="https://dev.to/YOUR_DEVTO">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A&color=0d1117" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=0d1117" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=firefox&logoColor=white&labelColor=667eea&color=0d1117" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn"/>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=667eea&labelColor=0d1117&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=f093fb&labelColor=0d1117&label=Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=667eea&labelColor=0d1117&label=Total%20Stars" />
-</div>
-
-<!--
-📝 Setup Instructions:
-
-1. Replace YOUR_USERNAME with your actual GitHub username
-2. Replace PROJECT_1, PROJECT_2, PROJECT_3 with your actual repo names
-3. Update social links with your actual profiles
-4. For the snake animation, create a repo named exactly as your username
-   and add this GitHub Action: https://github.com/Platane/snk
-
-🎨 Color Palette:
-- Primary: #667eea (Purple-Blue)
-- Secondary: #f093fb (Pink)
-- Accent: #764ba2 (Deep Purple)
-- Background: #0d1117 (GitHub Dark)
-- Text: #c9d1d9 (GitHub Light)
-
-✨ Features:
-- Animated wave headers/footers
-- 3D contribution graph
-- Real-time GitHub stats
-- Language constellation (donut chart)
-- Streak visualization
-- Trophy achievements
-- Snake eating contributions animation
-- Floating tech badges
-- Dynamic typing effect
-- Responsive dashboard layout
--->
-'''
-
-print(readme_content)
