@@ -22,15 +22,15 @@
 <td width="54%" valign="top">
  
 ```yaml
-┌─[ IDENTITY ]───────────────────────────┐
+┌─[ IDENTITY ]────────────────────────────┐
 │                                         │
-│  name        : Awais Sajid              │
-│  role        : Security Engineer        │
-│  company     : Secure Networks          │
-│  location    : Islamabad, PK  🇵🇰        │
-│  experience  : 2+ years                 │
+│  Name        : Awais Sajid              │
+│  Role        : Security Engineer        │
+│  Company     : Secure Networks          │
+│  Location    : Islamabad, PK  🇵🇰        │
+│  Experience  : 2+ years                 │
 │                                         │
-│  focus :                                │
+│  Focus :                                │
 │    ▶ Threat Detection & Response        │
 │    ▶ Detection Engineering (Sigma)      │
 │    ▶ SIEM Architecture (Wazuh)          │
@@ -38,18 +38,15 @@
 │    ▶ EDR / Endpoint (Trend Micro XDR)   │
 │    ▶ Digital Forensics & IR             │
 │                                         │
-│  targets : UAE · KSA · Qatar            │
-│            Malaysia · Remote            │
-│                                         │
 │  education : B.S. Cyber Security        │
-│              NUCES Islamabad — 2023     │
+│              NUCES Islamabad     │
 └─────────────────────────────────────────┘
 ```
  
 </td>
 <td width="46%" valign="top" align="center">
  
-<img src="https://github-readme-stats.vercel.app/api?username=asajid03&show_icons=true&theme=merko&hide_border=true&bg_color=060b14&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=10" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=asajid03&cache_seconds=86400" width="100%"/>
  
 <img src="https://github-readme-streak-stats.herokuapp.com?user=asajid03&theme=dark&hide_border=true&background=060b14&ring=00FF88&fire=00D4FF&currStreakLabel=00FF88&sideLabels=00D4FF&dates=6e7681&stroke=00ff8820&border_radius=10" width="100%"/>
  
