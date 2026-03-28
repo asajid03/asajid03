@@ -49,7 +49,9 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asajid03&show_icons=true&theme=merko&hide_border=true&bg_color=060b14&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=10&ring_color=00ff88" width="100%"/>
+<img src="https://github-readme-stats-git-main.vercel.app/api?username=asajid03&show_icons=true&theme=merko&hide_border=true&bg_color=060b14&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=10&ring_color=00ff88
+" width="100%"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=asajid03&theme=dark&hide_border=true&background=060b14&ring=00FF88&fire=00D4FF&currStreakLabel=00FF88&sideLabels=00D4FF&dates=6e7681&stroke=00ff8820&border_radius=10" width="100%"/>
 
