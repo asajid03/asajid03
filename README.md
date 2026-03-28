@@ -42,11 +42,7 @@ education   : B.S. Cyber Security — NUCES (2019–2023)
 ```
 
 </td>
-<td width="40%" valign="top" align="center">
-
-## `$ threat_level`
-
-<img src="https://github-readme-stats.vercel.app/api?username=asajid03&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" width="100%"/>
+<td width="100%" valign="top" align="center">
 
 </td>
 </tr>
