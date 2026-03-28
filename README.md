@@ -37,9 +37,6 @@
 │    ▶ Network Security (Palo Alto NGFW)  │
 │    ▶ EDR / Endpoint (Trend Micro XDR)   │
 │    ▶ Digital Forensics & IR             │
-│                                         │
-│  Education : B.S. Cyber Security        │
-│              NUCES Islamabad     │
 └─────────────────────────────────────────┘
 ```
  
