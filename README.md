@@ -101,7 +101,6 @@
 | 🌐 | **Head of Cybersecurity** | Google Developer Student Club — NUCES Islamabad |
 | 🎓 | **National Merit Scholarship** | Nationwide |
 | 🔬 | **ML-Based Intrusion Detection System** | Academic Research Project |
-| ⛓️ | **Blockchain-Based Lottery System** | Smart Contracts — Academic Project |
 | 🔐 | **Lightweight TLS Secure Communication** | Protocol Implementation |
 
 </div>
