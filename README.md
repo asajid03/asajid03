@@ -49,7 +49,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=asajid03" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060b14,100:00ff88&height=200&section=header&text=Awais%20Sajid&fontColor=c9d1d9"/>
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=asajid03&theme=dark&hide_border=true&background=060b14&ring=00FF88&fire=00D4FF&currStreakLabel=00FF88&sideLabels=00D4FF&dates=6e7681&stroke=00ff8820&border_radius=10" width="100%"/>
