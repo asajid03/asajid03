@@ -1,61 +1,63 @@
-<!-- DOME HEADER -->
+<!-- ████████████████████ DOME HEADER ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:060b14,40:0d2a1e,70:0a2030,100:060b14&height=210&section=header&text=AWAIS%20SAJID&fontSize=68&fontColor=00ff88&fontAlignY=45&desc=Security%20Engineer%20%7C%20Threat%20Hunter%20%7C%20Detection%20Architect&descAlignY=68&descSize=17&descColor=00d4ff&stroke=00ff88&strokeWidth=1&animation=fadeIn" width="100%"/>
+ 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:060b14,40:0d2a1e,70:0a2030,100:060b14&height=200&section=header&text=AWAIS%20SAJID&fontSize=64&fontColor=00ff88&fontAlignY=45&desc=Security%20Engineer%20%7C%20Threat%20Hunter%20%7C%20Detection%20Architect&descAlignY=68&descSize=16&descColor=00d4ff&stroke=00ff88&strokeWidth=1&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&pause=800&color=00FF88&center=true&vCenter=true&width=720&height=40&lines=%5B+SYSTEM+ONLINE+%5D+%E2%96%B6+Securing+the+perimeter...;Threat+Detection+%7C+SIEM+Engineering+%7C+Sigma+Rules;Palo+Alto+NGFW+%7C+Trend+Micro+XDR+%7C+Infoblox+BloxOne;MITRE+ATT%26CK+%7C+ISO+27001+%7C+PCI-DSS+%7C+SSAE-18;Islamabad%2C+PK+%F0%9F%87%B5%F0%9F%87%B0+%E2%80%94+Open+to+UAE+%7C+KSA+%7C+Qatar+%7C+Remote"/>
 </p>
-
+ 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=720&height=40&lines=%5B+SYSTEM+ONLINE+%5D+%E2%96%B6+Securing+the+perimeter...;Threat+Detection+%7C+SIEM+Engineering+%7C+Wazuh+%7C+Sigma;Palo+Alto+NGFW+%7C+Trend+Micro+XDR+%7C+Infoblox;MITRE+ATT%26CK+%7C+ISO+27001+%7C+PCI-DSS+%7C+SSAE-18;Islamabad%2C+PK+%F0%9F%87%B5%F0%9F%87%B0+%E2%80%A2+Open+to+UAE+%7C+KSA+%7C+Qatar+%7C+Malaysia+%7C+Remote" alt="Typing SVG"/>
+<img src="https://img.shields.io/badge/%E2%AC%A1_Secure_Networks-00ff88?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/2%2B_Yrs_Experience-00d4ff?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-a78bfa?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Open_to_Relocation-ff6b6b?style=for-the-badge&logoColor=white"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%E2%AC%A1_Secure_Networks-00ff88?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/2%2B_Years_Experience-00d4ff?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-a78bfa?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Open_to_Relocation-ff6b6b?style=for-the-badge&logoColor=white"/>
-</p>
-
----
-
-## `$ whoami`
-
+ 
+<br/>
+ 
+<!-- ████████████████████ WHOAMI ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1a2e,100:060b14&height=50&text=%24%20whoami&fontSize=18&fontColor=00ff88&fontAlign=8&fontAlignY=62&desc=────────────────────────────────────────────────────&descSize=10&descColor=00ff8840&descAlignY=90" width="100%"/>
+ 
 <table>
 <tr>
-<td width="55%" valign="top">
-
+<td width="54%" valign="top">
+ 
 ```yaml
-┌─[ IDENTITY ]────────────────────────────┐
+┌─[ IDENTITY ]───────────────────────────┐
 │                                         │
-│  Name        : Awais Sajid              │
-│  Role        : Security Engineer        │
-│  Company     : Secure Networks          │
-│  Location    : Islamabad, PK  🇵🇰        │
-│  Experience  : 2+ years                 │
+│  name        : Awais Sajid              │
+│  role        : Security Engineer        │
+│  company     : Secure Networks          │
+│  location    : Islamabad, PK  🇵🇰        │
+│  experience  : 2+ years                 │
 │                                         │
-│  Focus :                                │
-│    ▶ Threat Detection & Response       │
-│    ▶ Detection Engineering (Sigma)     │
-│    ▶ SIEM Architecture (Wazuh)         │
-│    ▶ Network Security (Palo Alto)      │
-│    ▶ Endpoint Protection (Trend Micro) │
+│  focus :                                │
+│    ▶ Threat Detection & Response        │
+│    ▶ Detection Engineering (Sigma)      │
+│    ▶ SIEM Architecture (Wazuh)          │
+│    ▶ Network Security (Palo Alto NGFW)  │
+│    ▶ EDR / Endpoint (Trend Micro XDR)   │
+│    ▶ Digital Forensics & IR             │
 │                                         │
-│  Available   :  Pakistan · Worldwide    │
-│                 · Remote               │
-│                                        │
-│  Education   : B.S Cyber Security      │
-│                NUCES Islamabad         │
-└────────────────────────────────────────┘
+│  targets : UAE · KSA · Qatar            │
+│            Malaysia · Remote            │
+│                                         │
+│  education : B.S. Cyber Security        │
+│              NUCES Islamabad — 2023     │
+└─────────────────────────────────────────┘
 ```
-
+ 
 </td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=asajid03&show_icons=true&theme=merko&hide_border=true&bg_color=060b14&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=10&ring_color=00ff88" width="100%"/>
-
+<td width="46%" valign="top" align="center">
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=asajid03&show_icons=true&theme=merko&hide_border=true&bg_color=060b14&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&border_radius=10" width="100%"/>
+ 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=asajid03&theme=dark&hide_border=true&background=060b14&ring=00FF88&fire=00D4FF&currStreakLabel=00FF88&sideLabels=00D4FF&dates=6e7681&stroke=00ff8820&border_radius=10" width="100%"/>
-
+ 
 </td>
 </tr>
 </table>
+ 
+<br/>
 
 ---
 
