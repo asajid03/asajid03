@@ -38,7 +38,7 @@
 │    ▶ EDR / Endpoint (Trend Micro XDR)   │
 │    ▶ Digital Forensics & IR             │
 │                                         │
-│  education : B.S. Cyber Security        │
+│  Education : B.S. Cyber Security        │
 │              NUCES Islamabad     │
 └─────────────────────────────────────────┘
 ```
@@ -46,7 +46,7 @@
 </td>
 <td width="46%" valign="top" align="center">
  
-<img src="https://github-readme-stats.vercel.app/api?username=asajid03&cache_seconds=86400" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=asajid03" width="100%"/>
  
 <img src="https://github-readme-streak-stats.herokuapp.com?user=asajid03&theme=dark&hide_border=true&background=060b14&ring=00FF88&fire=00D4FF&currStreakLabel=00FF88&sideLabels=00D4FF&dates=6e7681&stroke=00ff8820&border_radius=10" width="100%"/>
  
